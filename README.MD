@@ -5,7 +5,7 @@ or hacking to use it, it is newbie friendly.
 
 if the script doesn't run then just open the directory in
 terminal and type or copy and paste:
-sudo chmod 755 ./ToolsInstall
+sudo chmod 755 ./ToolsInstall.sh
 
 If you already have Golang installed and it is not at least
 version 1.18.1 please remove go as the script will look for where that version is supposed to be.
