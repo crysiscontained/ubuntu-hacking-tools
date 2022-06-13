@@ -11,7 +11,7 @@ fi
 
 sudo apt update && sudo apt upgrade -y
 
-sudo apt install -y libssl-dev jq ruby-full libxslt1-dev ruby-dev build-essential libgmp-dev zlib1g-dev libffi-dev python3 python2 python3-pip git nmap default-jre netcat curl
+sudo apt install -y libssl-dev jq ruby-full libxslt1-dev ruby-dev build-essential libgmp-dev zlib1g-dev libffi-dev python3 python2 python3-pip git nmap default-jre netcat curl libcurl4-gnutls-dev librtmp-dev
 
 
 #install go
